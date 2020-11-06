@@ -1,1 +1,2 @@
 # DATASCIENCE-INTERNSHIP-SPARKSFOUNDATION
+![Screenshot](sparks.jpeg)
